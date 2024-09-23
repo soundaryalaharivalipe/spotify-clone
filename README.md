@@ -65,9 +65,6 @@ Once the app is running:
 - Enjoy real-time audio visualizations while listening to music
 
 
-- **Components**: Contains reusable components like the AudioPlayer and Playlist.
-- **Styles**: Contains CSS files for styling the application.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
