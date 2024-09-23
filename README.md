@@ -9,13 +9,8 @@ A **Spotify clone** built using **React.js**. This project simulates the core fe
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Demo
-
-Check out the live demo of the Spotify Clone here: [Demo Link](#)
 
 ## Features
 
@@ -69,5 +64,21 @@ Once the app is running:
 - Select a song to play, pause, or skip
 - Enjoy real-time audio visualizations while listening to music
 
-## Project Structure
+
+- **Components**: Contains reusable components like the AudioPlayer and Playlist.
+- **Styles**: Contains CSS files for styling the application.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+
 
